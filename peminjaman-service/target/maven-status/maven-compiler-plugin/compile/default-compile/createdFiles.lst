@@ -1,0 +1,7 @@
+com\kevin\peminjaman\VO\Anggota.class
+com\kevin\peminjaman\repository\PeminjamanRepository.class
+com\kevin\peminjaman\entity\Peminjaman.class
+com\kevin\peminjaman\service\PeminjamanService.class
+com\kevin\peminjaman\VO\ResponseTemplateVO.class
+com\kevin\peminjaman\controller\PeminjamanController.class
+com\kevin\peminjaman\PeminjamanServiceApplication.class
